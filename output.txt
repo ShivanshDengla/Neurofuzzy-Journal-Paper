@@ -1,0 +1,54 @@
+Epoch 1/20
+23/23 - 0s - loss: 0.7786 - accuracy: 0.4986 - val_loss: 0.7612 - val_accuracy: 0.4250 - 480ms/epoch - 21ms/step
+Epoch 2/20
+23/23 - 0s - loss: 0.7557 - accuracy: 0.5111 - val_loss: 0.7325 - val_accuracy: 0.4500 - 30ms/epoch - 1ms/step
+Epoch 3/20
+23/23 - 0s - loss: 0.7128 - accuracy: 0.5472 - val_loss: 0.7202 - val_accuracy: 0.5125 - 38ms/epoch - 2ms/step
+Epoch 4/20
+23/23 - 0s - loss: 0.7030 - accuracy: 0.5514 - val_loss: 0.7158 - val_accuracy: 0.5250 - 33ms/epoch - 1ms/step
+Epoch 5/20
+23/23 - 0s - loss: 0.6888 - accuracy: 0.5514 - val_loss: 0.7247 - val_accuracy: 0.4375 - 33ms/epoch - 1ms/step
+Epoch 6/20
+23/23 - 0s - loss: 0.6634 - accuracy: 0.5722 - val_loss: 0.7138 - val_accuracy: 0.5125 - 31ms/epoch - 1ms/step
+Epoch 7/20
+23/23 - 0s - loss: 0.6803 - accuracy: 0.5681 - val_loss: 0.7242 - val_accuracy: 0.4875 - 32ms/epoch - 1ms/step
+Epoch 8/20
+23/23 - 0s - loss: 0.6365 - accuracy: 0.6403 - val_loss: 0.7325 - val_accuracy: 0.4750 - 32ms/epoch - 1ms/step
+Epoch 9/20
+23/23 - 0s - loss: 0.6330 - accuracy: 0.6375 - val_loss: 0.7278 - val_accuracy: 0.5000 - 33ms/epoch - 1ms/step
+Epoch 10/20
+23/23 - 0s - loss: 0.6262 - accuracy: 0.6500 - val_loss: 0.7423 - val_accuracy: 0.4500 - 34ms/epoch - 1ms/step
+Epoch 11/20
+23/23 - 0s - loss: 0.6260 - accuracy: 0.6458 - val_loss: 0.7512 - val_accuracy: 0.4875 - 33ms/epoch - 1ms/step
+Epoch 12/20
+23/23 - 0s - loss: 0.6254 - accuracy: 0.6431 - val_loss: 0.7495 - val_accuracy: 0.5125 - 33ms/epoch - 1ms/step
+Epoch 13/20
+23/23 - 0s - loss: 0.6313 - accuracy: 0.6333 - val_loss: 0.7285 - val_accuracy: 0.5375 - 32ms/epoch - 1ms/step
+Epoch 14/20
+23/23 - 0s - loss: 0.6125 - accuracy: 0.6500 - val_loss: 0.7330 - val_accuracy: 0.5375 - 33ms/epoch - 1ms/step
+Epoch 15/20
+23/23 - 0s - loss: 0.6125 - accuracy: 0.6736 - val_loss: 0.7451 - val_accuracy: 0.5125 - 33ms/epoch - 1ms/step
+Epoch 16/20
+23/23 - 0s - loss: 0.5843 - accuracy: 0.6819 - val_loss: 0.7475 - val_accuracy: 0.4875 - 32ms/epoch - 1ms/step
+Epoch 17/20
+23/23 - 0s - loss: 0.5808 - accuracy: 0.6792 - val_loss: 0.7599 - val_accuracy: 0.5000 - 31ms/epoch - 1ms/step
+Epoch 18/20
+23/23 - 0s - loss: 0.5579 - accuracy: 0.7208 - val_loss: 0.7650 - val_accuracy: 0.5375 - 32ms/epoch - 1ms/step
+Epoch 19/20
+23/23 - 0s - loss: 0.5763 - accuracy: 0.7167 - val_loss: 0.7779 - val_accuracy: 0.5500 - 33ms/epoch - 1ms/step
+Epoch 20/20
+23/23 - 0s - loss: 0.5563 - accuracy: 0.6958 - val_loss: 0.7789 - val_accuracy: 0.5000 - 32ms/epoch - 1ms/step
+Test Accuracy: 0.4749999940395355
+1/1 [==============================] - 0s 34ms/step
+Prediction for sample 0: [0.5089616]
+1/1 [==============================] - 0s 11ms/step
+Sample Data: [[ 0.78381223 -0.46770908 -0.20830592 -0.00303311  0.61292458  0.12845252
+   0.31825748  1.28327063 -1.08157058 -0.64167473  1.23907631 -1.53883637
+  -1.60792333 -1.09150948  1.48907044  1.07103036  1.50253269  0.38767334
+  -1.55309468  0.70217727  0.36335005  1.2148174   0.47282761  1.89384232
+  -0.75843039  0.51535381  1.50802103 -0.10321026 -0.37838379 -1.80620478
+   0.32276142  0.912841   -1.6500197  -0.82792007 -1.34746774 -0.25803879
+  -0.91073259  1.30522861 -1.54503345  0.31228656  0.52619092 -0.67406805
+   1.045922   -0.38168743  1.50520171  1.05406114  1.39670209 -1.41634547
+  -1.52897175 -0.16636003]]
+Prediction for sample 0: [0.5089616]
